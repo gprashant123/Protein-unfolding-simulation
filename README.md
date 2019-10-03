@@ -1,6 +1,5 @@
 # Protein-unfolding-simulation
-Matlab programs to implement Monte Carlo-Metropolis simulations to unfold proteins in a two dimensional lattice
-
+Using Monte Carlo Simulations to unfold a 16-mer protein in a 2D lattice
 ## ProteinFold.m
 This function initializes the native state of the protein and finds the energy of the current conformation, having arguments 
 e (Energy of a single non-covalent interaction) and kT(product of k and temperature). Further, it simulates the unfolding of proteins using
